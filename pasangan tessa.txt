@@ -1,0 +1,17 @@
+DF Player Mini:
+- VCC = 5V
+- GND = GND
+- RX = D2
+- TX (R1K) = D3
+
+HC SR04:
+- VCC = 5V
+- TRIG = D6
+- ECHO = D5
+- GND = GND
+
+LCD :
+- VCC = 5V
+- GND = GND
+- SDA = ANALOG 4
+- SCL = ANALOG 5
